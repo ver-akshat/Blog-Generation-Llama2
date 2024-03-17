@@ -9,6 +9,12 @@ An Example -
 ![An example](https://github.com/ver-akshat/Blog-Generation-Llama2/blob/1124f5c7a91991eb1da9f41705f8d41452040846/blog-generation-screenshot.png)
 
 
+Steps to run on local machine -
+1. Download model weights for Llama-2 (any variant which you prefer)
+2. Change the path of the model to the one where the downloaded model weights are kept.
+3. Install the required libraries from requirements.txt
+4. Run the streamlit app by using command prompt.
+
 Future Work - 
-* Deploy this app
+* Containerize & deploy this app
 * Add more functionality to make a multi purpose app
